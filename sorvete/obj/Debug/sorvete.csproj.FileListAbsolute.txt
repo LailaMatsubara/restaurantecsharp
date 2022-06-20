@@ -1,0 +1,27 @@
+D:\VS\sorvete\bin\Debug\sorvete.exe.config
+D:\VS\sorvete\bin\Debug\sorvete.exe
+D:\VS\sorvete\bin\Debug\sorvete.pdb
+D:\VS\sorvete\obj\Debug\sorvete.csproj.AssemblyReference.cache
+D:\VS\sorvete\obj\Debug\sorvete.Form1.resources
+D:\VS\sorvete\obj\Debug\sorvete.Form2.resources
+D:\VS\sorvete\obj\Debug\sorvete.Properties.Resources.resources
+D:\VS\sorvete\obj\Debug\sorvete.csproj.GenerateResource.cache
+D:\VS\sorvete\obj\Debug\sorvete.csproj.CoreCompileInputs.cache
+D:\VS\sorvete\obj\Debug\sorvete.exe
+D:\VS\sorvete\obj\Debug\sorvete.pdb
+D:\VS\sorvete\obj\Debug\sorvete.Form3.resources
+C:\Users\Aluno\Downloads\sorvete (2)\sorvete\obj\Debug\sorvete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\sorvete (2)\sorvete\obj\Debug\sorvete.exe
+C:\Users\Aluno\Downloads\sorvete (2)\sorvete\obj\Debug\sorvete.pdb
+C:\Users\Aluno\Downloads\sorvete\bin\Debug\sorvete.exe.config
+C:\Users\Aluno\Downloads\sorvete\bin\Debug\sorvete.exe
+C:\Users\Aluno\Downloads\sorvete\bin\Debug\sorvete.pdb
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.Form1.resources
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.Form2.resources
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.Form3.resources
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.Properties.Resources.resources
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.exe
+C:\Users\Aluno\Downloads\sorvete\obj\Debug\sorvete.pdb
